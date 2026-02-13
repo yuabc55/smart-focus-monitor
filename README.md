@@ -1,3 +1,7 @@
+# 智能自我专注时长监测系统
+
+基于 React + TypeScript + Vite 的专注计时应用。
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
